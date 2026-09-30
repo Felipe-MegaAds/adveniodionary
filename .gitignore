@@ -1,0 +1,16 @@
+# Arquivo de configuração do Git para ignorar arquivos desnecessários do sistema e editores
+
+# Arquivos temporários e do sistema operacional
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Diretórios e arquivos gerados por editores e IDEs (VS Code, JetBrains, etc.)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
